@@ -2,7 +2,7 @@
 
 ### Stop scrolling through 500 messages. Let the sloth do it.
 
-[![Hacktoberfest 2024](https://img.shields.io/badge/Hacktoberfest-2024-orange?style=for-the-badge&logo=hacktoberfest)](https://hacktoberfest.com)
+[![Hacktoberfest 2026](https://img.shields.io/badge/HacktoberFest-2026-orange)](https://hacktoberfest.com)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Runs Locally](https://img.shields.io/badge/Runs-100%25_Locally-purple?style=for-the-badge&logo=ollama&logoColor=white)]()
