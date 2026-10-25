@@ -1,0 +1,6 @@
+ollama
+dateparser
+ics
+streamlit
+pandas
+python-dateutil
